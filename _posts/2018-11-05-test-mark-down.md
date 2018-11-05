@@ -1,12 +1,12 @@
 --- 
 layout: post
-title: 测试markdown
+title: 测试Markdown
 author: Jess
 ---
 **1. 列表和链接**  
 参考信息：  
-- [简书markdown新手指南](https://www.jianshu.com/p/q81RER)
-- [github markdown教程](https://guides.github.com/features/mastering-markdown/)
+- [简书Markdown新手指南](https://www.jianshu.com/p/q81RER)
+- [github Markdown教程](https://guides.github.com/features/mastering-markdown/)
 
 
 
