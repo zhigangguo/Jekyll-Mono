@@ -9,10 +9,10 @@ author: Jess
 $ bluetoothctl  
 $ list  
 $ select the MAC of your laptop bluetooth adapter  
-$ show 
+$ show  
 $ power on  
 $ scan on  
-$ scan off
+$ scan off  
 $ agent on  
 $ pair the MAC of your bluetooth mouse  
 $ connect the MAC of your bluettooth mouse  
