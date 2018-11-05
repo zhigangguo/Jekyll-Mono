@@ -3,8 +3,8 @@ layout: post
 title: 测试markdown
 author: Jess
 ---
-**1. 列表和链接**
-参考信息：
+**1. 列表和链接**  
+参考信息：  
 - [简书markdown新手指南](https://www.jianshu.com/p/q81RER)
 - [github markdown教程](https://guides.github.com/features/mastering-markdown/)
 
